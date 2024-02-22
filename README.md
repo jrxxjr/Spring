@@ -1,5 +1,5 @@
-Portuguese:
-﻿﻿# Exemplo de utilização do Spring
+Portuguese: 
+# Exemplo de utilização do Spring
 
 Exemplo de Aplicação Java usando Spring Framework  
 
